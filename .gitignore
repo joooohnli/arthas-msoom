@@ -1,0 +1,16 @@
+*.iml
+*.settings
+*.classpath
+*.project
+*.class
+.idea
+/bin/
+/disconf
+/logs0/
+*flattened-pom.xml
+log
+/build
+/web/WEB-INF/lib
+/web/WEB-INF/classes
+*/target
+hosts.properties
